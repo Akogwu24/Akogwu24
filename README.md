@@ -6,7 +6,7 @@ A Curious fast learner plus Software Developer Who is all about solving problems
 
 
 
-🧰 Toolbox
+-  Toolbox
 <!--
 **Akogwu24/Akogwu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
