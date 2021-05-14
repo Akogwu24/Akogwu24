@@ -6,7 +6,12 @@ A Curious fast learner plus Software Developer Who is all about solving problems
 
 
 
--  Toolbox
+<img src='https://cutt.ly/ybL9x33'  alt='tool box' width='20' height='20' /> Toolbox.
+
+
+
+<img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg' alt='HTML5' height='50' width='50' /> <img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg' alt='CSS3' height='50' width='50' /> <img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg' alt='javascript' height='50' width='50' /> <img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original-wordmark.svg' alt='REACT' height='50' width='50' /> <img src='http://pngimg.com/uploads/github/github_PNG40.png' alt='github' height='50' width='50' /> <img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-plain-wordmark.svg' alt='git' height='50' width='50' /> <img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/yarn/yarn-original.svg' alt='yarn' height='50' width='50' /> <img src='https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/materialui/materialui-original.svg' alt='material UI' height='50' width='50' /> <img src='https://miro.medium.com/max/632/1*5QD8DKhOjRe-gcYjozlLNQ.png' alt='tailwind' height='50' width='50' /> <img src='https://chakra-ui.com/og-image.png' alt='jchakra ui' height='50' width='50' /> 
+
 <!--
 **Akogwu24/Akogwu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
