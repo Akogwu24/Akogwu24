@@ -1,4 +1,4 @@
-### Hi there  <img src='https://i.pinimg.com/originals/33/35/0a/33350a6314b66017370ada20437fff04.gif' width='30px' />   I am Akogwu Emmanuel.
+### Hi there  <img src='https://i.pinimg.com/originals/33/35/0a/33350a6314b66017370ada20437fff04.gif' width='30px' height='30px />   I am Akogwu Emmanuel.
 
  
  
