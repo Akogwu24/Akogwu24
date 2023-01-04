@@ -1,3 +1,10 @@
+### Hey&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋🏽" width="22px" height="22px"> , I'm Gideon Idoko
+
+![Gideon](gitartwork1.svg)
+
+![Idoko](gitartwork3.svg)
+
+
 ### Hi there  <img src='https://i.pinimg.com/originals/33/35/0a/33350a6314b66017370ada20437fff04.gif' width='30px' height='30px' />   I am Akogwu Emmanuel.
 
  
